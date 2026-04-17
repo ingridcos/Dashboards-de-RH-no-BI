@@ -2,7 +2,7 @@
 
 Este repositório contém um **Dashboard de Recursos Humanos** desenvolvido em Power BI como parte dos meus estudos em Business Intelligence e People Analytics. O objetivo foi criar uma visão executiva do quadro de colaboradores, acompanhando contratações, desligamentos, turnover e distribuição de funcionários por cidade, gênero, área e ocupação.
 
-Esse Dashboard foi feito junto com a equipe da **Hashtag Treinamentos**
+Esse Dashboard foi feito junto com a equipe da **Hashtag Treinamentos.**
 
 ## 🎯 Objetivo do Projeto
 
@@ -26,7 +26,7 @@ Além disso, o painel apresenta:
 - Distribuição de **Funcionários por Cidade**
 - Distribuição de **Funcionários por Gênero**
 - Árvore Hierárquica de **Funcionários Ativos por Cargos**
-- **Tooltip** integrado ao gráfico Funcionários por Cidade apontando as horas extras por cargo
+- **Tooltip** integrado ao gráfico Funcionários por Cidade apontando as horas extras por ocupação
 
 ## 📸 Visão do Dashboard
 
