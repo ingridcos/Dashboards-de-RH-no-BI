@@ -27,3 +27,8 @@ Além disso, o painel apresenta:
 - Distribuição de **Funcionários por Gênero**
 - Árvore Hierárquica de **Funcionários Ativos por Cargos**
 - **Tooltip** integrado ao gráfico Funcionários por Cidade apontando as horas extras por cargo
+
+## 📸 Visão do Dashboard
+
+![Dashboard de RH](rhpainel.png)
+
