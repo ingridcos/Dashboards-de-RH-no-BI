@@ -1,6 +1,6 @@
 # Dashboard de RH em Power BI
 
-Este repositório contém um **dashboard de Recursos Humanos** desenvolvido em Power BI como parte dos meus estudos em Business Intelligence e People Analytics. O objetivo foi criar uma visão executiva do quadro de colaboradores, acompanhando contratações, desligamentos, turnover e distribuição de funcionários por cidade, gênero, área e cargo.
+Este repositório contém um **Dashboard de Recursos Humanos** desenvolvido em Power BI como parte dos meus estudos em Business Intelligence e People Analytics. O objetivo foi criar uma visão executiva do quadro de colaboradores, acompanhando contratações, desligamentos, turnover e distribuição de funcionários por cidade, gênero, área e ocupação.
 
 Esse Dashboard foi feito junto com a equipe da **Hashtag Treinamentos**
 
