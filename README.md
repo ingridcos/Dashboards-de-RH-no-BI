@@ -17,7 +17,7 @@ Alguns dos KPIs trabalhados no dashboard:
 
 - **Contratações**: 234  
 - **Funcionários Ativos**: 217  
-- **Desligados**: 17  
+- **Demitidos**: 17  
 - **Rotatividade**: 7,26%  
 - **Salário Total**: R$ 1,57 milhão  
 
