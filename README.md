@@ -8,7 +8,7 @@ Esse Dashboard foi feito junto com a equipe da **Hashtag Treinamentos.**
 
 - Simular o dia a dia de um profissional de **People Analytics** dentro das empresas.
 - Consolidar indicadores de RH em um painel único e interativo.
-- Explorar visuais e recursos avançados do Power BI (como **árvore hierárquica** e **tooltip**).
+- Explorar visuais e recursos avançados do Power BI (como **árvore hierárquica** e **tooltip)**.
 - Praticar boas práticas de visualização e storytelling com dados.
 
 ## 📊 Principais Indicadores
