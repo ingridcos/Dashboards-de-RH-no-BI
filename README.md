@@ -47,3 +47,8 @@ Além disso, o painel apresenta:
 
 Participo de iniciativas que incentivam a presença feminina na tecnologia, como **WoMakersCode** e **PrograMaria**, buscando aprendizado contínuo e networking na área.
 
+## 💡 Observação
+
+Este repositório representa minha jornada de aprendizado em análise de dados e meu compromisso com evolução contínua na área de tecnologia.
+centralizado para consultar e revisar os exercícios sempre que necessário.
+
