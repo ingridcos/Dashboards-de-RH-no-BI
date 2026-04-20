@@ -4,6 +4,8 @@ Este repositório contém um **Dashboard de Recursos Humanos** desenvolvido em P
 
 Esse Dashboard foi feito junto com a equipe da **Hashtag Treinamentos.**
 
+A Hashtag Treinamentos é uma escola online brasileira focada em cursos práticos de tecnologia e ferramentas para o mercado de trabalho, como Excel, Power BI, Python, SQL, Inteligência Artificial e Análise de Dados.
+
 ## 🎯 Objetivo do Projeto
 
 - Simular o dia a dia de um profissional de **People Analytics** dentro das empresas.
