@@ -38,7 +38,7 @@ Além disso, o painel apresenta:
 
 ## 👩‍💻 Sobre Mim
 
-- Administradora formada pela UniCarioca  
+- Administradora e Gestora de RH formada pela UniCarioca  
 - Técnica em **Secretariado** pelo CETAP EAD RJ
 - Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
