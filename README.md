@@ -42,7 +42,8 @@ Além disso, o painel apresenta:
 - Técnica em **Secretariado** pelo CETAP EAD RJ
 - Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
-- Curso **Python para Análise de Dados** (PrograMaria) 
+- Curso **Python para Análise de Dados** (PrograMaria)
+- Curso **Sprint IA Generativa no Trabalho**(PrograMaria)
 - Desenvolvimento de projetos práticos voltados à análise e visualização de dados
 
 ## 🌱 Comunidade e iniciativas
